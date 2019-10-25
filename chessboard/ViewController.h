@@ -6,6 +6,10 @@
 //  Copyright (c) 2015 phamot. All rights reserved.
 //
 
+
+// New commit after merge
+
+
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
